@@ -13,11 +13,11 @@ A custom React hook to dynamically update the document title. Perfect for single
 Install the package using npm or yarn:
 
 ```bash
-npm install use-title-hook
+npm install @mehadi-shuvo/react-title
 ```
 
 ```bash
-yarn add use-title-hook
+yarn add @mehadi-shuvo/react-title
 ```
 
 ---
@@ -143,16 +143,17 @@ Contributions are welcome! If you find a bug or want to suggest a feature, pleas
 
 ---
 
+<!--
 ## License
 
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
+This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details. -->
 
 ---
 
 ## Support
 
-If you find this package useful, please consider giving it a ⭐️ on [GitHub](https://github.com/your-username/use-title-hook). For any questions or issues, feel free to open an issue.
+If you find this package useful, please consider giving it a ⭐️ on [GitHub](https://github.com/mehadi-shuvo/react-title). For any questions or issues, feel free to open an issue.
 
 ---
 
-Made with ❤️ by [Your Name](https://github.com/your-username)
+Made with ❤️ by [Md Mehadi Hasan Shuvo](https://github.com/mehadi-shuvo)

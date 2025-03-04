@@ -1,5 +1,5 @@
 {
-  "name": "@mehadi-shuvo/react-title",
+  "name": "@mehadi-hasan/react-title",
   "version": "1.0.0",
   "description": "A custom React hook to dynamically update the document title.",
   "main": "dist/index.js",
@@ -8,6 +8,10 @@
     "build": "tsc",
     "prepare": "npm run build",
     "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mehadi-shuvo/react-title.git"
   },
   "author": "mehadi-shuvo",
   "license": "MIT",
@@ -22,6 +26,7 @@
     "react",
     "hooks",
     "title",
-    "document title"
+    "document title",
+    "react-title"
   ]
 }
